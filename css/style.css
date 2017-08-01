@@ -1,0 +1,9 @@
+body {
+	background: ccc;
+}
+
+div {
+	background: red;
+	height: 50vh;
+	width: 50vw;
+}
