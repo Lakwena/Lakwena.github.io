@@ -201,6 +201,31 @@ iframe {
 }
 
 
+/*illustration*/
+
+#i1 {
+    background: url("https://www.behance.net/gallery/47072577/Bhairab");
+    background-position: center;
+    background-size: auto 100%;
+    background-repeat: no-repeat;
+}
+
+
+#i2 {
+    background: url("../img/two.jpg");
+    background-position: center;
+    background-size: auto 100%;
+    background-repeat: no-repeat;
+}
+
+#i3 {
+    background: url("../img/three.jpg");
+    background-position: center;
+    background-size: auto 100%;
+    background-repeat: no-repeat;
+}
+
+
 
 
 
